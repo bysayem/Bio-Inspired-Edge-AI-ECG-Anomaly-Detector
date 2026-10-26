@@ -1,8 +1,7 @@
 # 🧠 BioEdge-Neuromorphic-Toolkit: Production-Grade Neuromorphic ECG Arrhythmia Detection Pipeline for Ultra-Low-Power Edge Hardware
 
 **Developer:** A S M SAYEM  
-**Affiliation:** Department of Computer Science & Engineering, East West University  
-**Target Application:** EPFL E3 Lab & Low-Power Neuromorphic Edge Deployment  
+**Affiliation:** Department of Computer Science & Engineering, East West University 
 
 ---
 
